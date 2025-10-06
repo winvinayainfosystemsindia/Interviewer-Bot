@@ -203,7 +203,7 @@ def time_left(start_ts: float) -> int:
     return max(0, TOTAL_TIME_SECONDS - elapsed)
 
 # ================= Streamlit UI =================
-st.set_page_config(page_title="AI Interview", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="Interviewer Bot", page_icon="🤖", layout="wide")
 st.title("🤖 AI Based Interview Bot")
 
 # Sidebar config
