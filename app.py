@@ -196,7 +196,7 @@ Ideal Answers (condensed):
 # ================= Utility ======================
 TOTAL_TIME_SECONDS = 30 * 60  # 30 min
 # Always generate this many questions
-NUM_QUESTIONS = 20
+NUM_QUESTIONS = 10
 
 def time_left(start_ts: float) -> int:
     elapsed = int(time.time() - start_ts)
