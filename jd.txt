@@ -1,0 +1,87 @@
+Job description:
+
+ Key Responsibilities (Junior Developer Focus):  
+
+ 
+ 
+
+     
+
+    Assist in the design, development, and deployment of application features using Angular, Node.js, and C# or Python. 
+     
+     
+
+    Collaborate with QA and Product teams to implement new product functionality. 
+     
+     
+
+    Participate in code reviews, Agile ceremonies, and troubleshooting activities. 
+     
+     
+
+    Maintain and extend existing functionality while adhering to secure coding standards. 
+     
+     
+
+    Gain exposure to microservice architecture and containerized environments (Docker, Kubernetes). 
+     
+
+ 
+
+ 
+ 
+ 
+
+Qualifications: 
+ 
+
+     
+
+    1–3 years of hands-on experience in software development. 
+     
+     
+
+    Strong foundation in JavaScript/TypeScript, HTML/CSS, and responsive UI development. 
+     
+     
+
+    Basic knowledge of Angular (v12+ preferred) and backend APIs in Node.js or C# or Python. 
+     
+     
+
+    Understanding of version control (Git), CI/CD pipelines, and Agile methodology. 
+     
+     
+
+    Familiarity with relational databases (SQL Server/PostgreSQL). 
+     
+     
+
+    Effective communication and willingness to learn in a team environment. 
+     
+     
+
+    Bachelor’s degree in Computer Science, Engineering, or a related discipline. 
+     
+
+ 
+
+Profile description:
+
+ Job Duties 
+
+Under general supervision, assists in designing, coding, testing, trouble-shooting and documenting engineering systems applications. Works on projects of moderate scope and complexity. The developer will be expected to have experience of common tools and processes used to design, code, test, trouble-shoot, document engineering systems applications. Assists in developing test strategies used in the automated regression testing of these systems. Follows secure coding practices, performs triaging of security issues, and implements fixes to deliver secure applications. Familiar with common software vulnerabilities and leading practices to mitigate. Should have the ability to research open source technologies for use in building systems and participate in open source communities as needed. Develops tasks/assignments and schedules for project work. Requires completion of an undergraduate degree in Computer Science or similar discipline, and 2 + years of related experience.
+ 
+
+ 
+ 
+
+About the Role: 
+ 
+
+This role is suited for a junior to mid-level full-stack developer contributing to the development and support of enterprise web-based applications used in Oil & Gas workflows. The position involves working closely with team leads and senior engineers to deliver scalable software components using modern technologies and best practices. 
+ 
+
+We offer:
+
+We invest in our employees through competitive compensation plans, health benefits, work-life programs, and reward and incentive plans. We have the right people to develop the right technologies and bring innovative solutions to the industry – and we value those people as an unmatched competitive advantage.
